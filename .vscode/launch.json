@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AcccountServiceApplication",
+            "request": "launch",
+            "mainClass": "com.example.acccountservice.AcccountServiceApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-AcccountServiceApplication<AccountService>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
